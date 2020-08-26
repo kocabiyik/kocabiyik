@@ -9,7 +9,8 @@ Connect with me on:
 <a href="https://stackoverflow.com/users/5070121/imran-kocabiyik" target="_blank">Stack Overflow</i></a>
 
 ## Tools and Technologies I Use (and I like):  
-<img src="https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/bash.png" alt="Linux"> <img src="https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/bash.png" alt="Linux">
+[<img src="https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/bash.png" alt="Linux">][testing]
+[<img src="https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/bash.png" alt="Linux">][website]
 
 ![Linux](https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/bash.png)
 ![Python](https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/py.png)
