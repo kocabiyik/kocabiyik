@@ -4,22 +4,22 @@ Merhaba, Hello, Hallo, and `print('merhaba')` 👋
 - 🎨 You can see my personal works [in my personal website](https://ikocabiyik.com/).  
 
 Connect with me on: 
-<a href="https://www.linkedin.com/in/imrankocabiyik/" target="_blank"><i class="fab fa-twitter"></i></a>
-<a href="https://www.linkedin.com/in/imrankocabiyik/" target="_blank"><i class="fab fa-linkedin"></i></a>
-<a href="https://stackoverflow.com/users/5070121/imran-kocabiyik" target="_blank"><i class="fab fa-stack-overflow"></i></a>
+<a href="https://www.linkedin.com/in/imrankocabiyik/" target="_blank">Twitter</i></a>
+<a href="https://www.linkedin.com/in/imrankocabiyik/" target="_blank">LinkedIn</i></a>
+<a href="https://stackoverflow.com/users/5070121/imran-kocabiyik" target="_blank">Stack Overflow</i></a>
 
 ## Tools and Technologies I Use (and I like):  
-![Linux](images/bash.png)
-![Python](images/py.png)
-![R](images/rstat.png)
-![AWS](images/aws.png)
-![TensorFlow](images/tf.png)
-![Postgres](images/pg.png)
-![Git](images/git.png)
-![Jupyter](images/jupyter.png)
-![Latex](images/latex.png)
-![Django](images/dj.png)
-![Shiny](images/shiny.png)
+![Linux](https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/bash.png)
+![Python](https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/py.png)
+![R](https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/rstat.png)
+![AWS](https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/aws.png)
+![TensorFlow](https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/tf.png)
+![Postgres](https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/pg.png)
+![Git](https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/git.png)
+![Jupyter](https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/jupyter.png)
+![Latex](https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/latex.png)
+![Django](https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/dj.png)
+![Shiny](https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/shiny.png)
 
 ## My Latest Blog Posts:
 
