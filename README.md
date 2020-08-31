@@ -23,6 +23,7 @@ Connect with me on:
 
 ## My Latest Blog Posts:
 
+- [Visualizing Machine Learning Optimizers](https://ikocabiyik.com/blog/en/visualizing-ml-optimizers/)
 - [Mimicking an Art Technique with GANs](https://ikocabiyik.com/blog/en/replicating-loomis-method-with-gan-models/)
 - [GANs with the Language of Game Theory](https://ikocabiyik.com/blog/en/gan-review/)
 - [Review: TensorFow Certificate Program](https://ikocabiyik.com/blog/en/tensorflow-certificate-program/)
