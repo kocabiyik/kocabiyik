@@ -8,7 +8,7 @@ Connect with me on:
 <a href="https://www.linkedin.com/in/imrankocabiyik/" target="_blank">LinkedIn</i></a>
 <a href="https://stackoverflow.com/users/5070121/imran-kocabiyik" target="_blank">Stack Overflow</i></a>
 
-## Tools and Technologies I Use (and I like):  
+## Tools and Technologies I Use (and I Like):  
 ![Linux](https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/bash.png)
 ![Python](https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/py.png)
 ![R](https://raw.githubusercontent.com/kocabiyik/kocabiyik/master/images/rstat.png)
