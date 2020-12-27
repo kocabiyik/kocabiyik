@@ -1,7 +1,6 @@
 Merhaba, Hello, Hallo, and `print('merhaba')` 👋
 
-- 🤖 I’m currently having a career break and learning _machine learning_.  
-- 🎨 You can see my personal works [in my personal website](https://ikocabiyik.com/).  
+- 🤖 I’m currently building on [withoutbg.com](www.withoutbg.com). 
 
 Connect with me on: 
 <a href="https://www.linkedin.com/in/imrankocabiyik/" target="_blank">Twitter</i></a>
