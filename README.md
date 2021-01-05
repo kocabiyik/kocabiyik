@@ -28,3 +28,4 @@ Connect with me on:
 - [Mimicking an Art Technique with GANs](https://ikocabiyik.com/blog/en/replicating-loomis-method-with-gan-models/)
 - [GANs with the Language of Game Theory](https://ikocabiyik.com/blog/en/gan-review/)
 - [Review: TensorFow Certificate Program](https://ikocabiyik.com/blog/en/tensorflow-certificate-program/)
+
