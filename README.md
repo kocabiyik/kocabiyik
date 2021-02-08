@@ -3,7 +3,7 @@ Merhaba, Hello, Hallo, and `print('merhaba')` 👋
 I’m currently building [withoutbg.com](www.withoutbg.com). 
 
 Connect with me on: 
-<a href="https://www.linkedin.com/in/imrankocabiyik/" target="_blank">Twitter</i></a>
+<a href="https://twitter.com/imrankocabiyik" target="_blank">Twitter</i></a>
 ·
 <a href="https://www.linkedin.com/in/imrankocabiyik/" target="_blank">LinkedIn</i></a>
 ·
