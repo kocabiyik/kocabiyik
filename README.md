@@ -1,6 +1,6 @@
 Merhaba, Hello, Hallo, and `print('merhaba')` 👋
 
-I’m currently building [withoutbg.com](www.withoutbg.com). 
+I’m currently building [withoutbg.com](https://www.withoutbg.com). 
 
 Connect with me on: 
 <a href="https://twitter.com/imrankocabiyik" target="_blank">Twitter</i></a>
