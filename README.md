@@ -19,5 +19,5 @@ Connect with me on:
 
 
 # Projects
-(https://www.withoutbg.com). 
+[withoutbg.com](https://www.withoutbg.com)
 
